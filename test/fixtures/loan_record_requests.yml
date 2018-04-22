@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  validity: 1
+  initiator_id: 1
+  outstandings: MyString
+  invalidate: false
+
+two:
+  user_id: 1
+  validity: 1
+  initiator_id: 1
+  outstandings: MyString
+  invalidate: false
